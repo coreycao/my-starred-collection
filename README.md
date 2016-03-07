@@ -3,5 +3,5 @@
 
 # Android
 ## 开源APP
-### https://github.com/DreaminginCodeZH/Douya
+### [DreaminginCodeZH / Douya](https://github.com/DreaminginCodeZH/Douya)
 开源的 Material Design 豆瓣客户端
