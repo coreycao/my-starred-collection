@@ -3,11 +3,11 @@
 
 ###  目录
 - [开源类](#开源类)
-    - [开源APP](#开源APP)
+    - [开源APP](#开源app)
     - [第三方开源库](#第三方开源库)
 - [工具类](#网站)
 	- [静态博客](#静态博客)
- 	- [Git/Github](#Git/Github)
+ 	- [Git及Github](#git-github)
 - [干货整理类](#干货整理类)
 
 ###开源类
@@ -25,7 +25,7 @@
 #### 静态博客
 * [InkProject / ink](https://github.com/InkProject/ink) - 一款优雅漂亮的静态博客构建工具。中文名称**纸小墨**。
 
-#### Git/Github
+#### Git-Github
 * [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes) - 高质量的Git中文教程，来自国外社区的优秀文章和个人实践
 * [phodal/github-roam](https://github.com/phodal/github-roam) - GitHub 漫游指南- a Chinese ebook on how to build a good build on Github. Explore the users' behavior. Find some thing interest. http://github.phodal.com
 
