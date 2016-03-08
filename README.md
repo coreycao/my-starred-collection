@@ -1,6 +1,15 @@
 # [my-starred-collection](https://github.com/coreycao/my-starred-collection)
 对自己在github上starred的项目进行一下归类整理，并且会在以后的使用中持续更新。
 
+###  目录
+- [开源类](#开源类)
+    - [开源APP](#开源APP)
+    - [第三方开源库](#第三方开源库)
+- [工具类](#网站)
+	- [静态博客](#静态博客)
+ 	- [Git/Github](#Git/Github)
+- [干货整理类](#干货整理类)
+
 ###开源类
 
 #### 开源APP
