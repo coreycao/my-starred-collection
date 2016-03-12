@@ -45,6 +45,7 @@
 * [konmik/nucleus](https://github.com/konmik/nucleus) - 实现了MVP模式的Android库。Nucleus is a simple Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
 * [daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - Android SwipeLayout.
 * [LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) -  抓取URL指定的网页中的关键信息。
+* [Pixplicity/sharp](https://github.com/Pixplicity/sharp) - Android SVG. Scalable vector graphics for Android.
 
 #### 其他
 * [luohaha/JLiteSpider](https://github.com/luohaha/JLiteSpider) - 一个轻量级的Java Web爬虫借口。A lite Java web spider interface(no a framework) :-)
