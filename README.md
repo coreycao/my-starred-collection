@@ -16,6 +16,7 @@
 
 #### 开源APP
 * [DreaminginCodeZH/Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 风格的豆瓣客户端。
+* [ASPOOK/Android-MaterialDesign-DBMZ](https://github.com/ASPOOK/Android-MaterialDesign-DBMZ) - 简单的Android MD风格的“豆瓣美女”客户端。
 * [smallSohoSolo/android2048](https://github.com/smallSohoSolo/android2048) - Android版本的2048游戏。实现了更多的功能和丰富的特效。
 * [SparkYuan/Meizi](https://github.com/SparkYuan/Meizi) - 每天更新一张精选妹纸图片。适合新手学习的开源APP。
 * [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) - gank.io第三方Android客户端。
