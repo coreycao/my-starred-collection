@@ -26,6 +26,7 @@
 * [SilenceDut/NBAPlus](https://github.com/SilenceDut/NBAPlus) - 查看NBA相关新闻资讯的Android客户端。
 * [SilenceDut/nbaplus-server](https://github.com/SilenceDut/nbaplus-server) - NBA客户端的Server实现。
 * [NoahZu/ZhihuDaily](https://github.com/NoahZu/ZhihuDaily) - 知乎日报第三方客户端。
+* [race604/ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - React-Native开发的知乎日报客户端。
 
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
@@ -70,6 +71,7 @@
 * [nieweidong/fetool](https://github.com/nieweidong/fetool) - 归纳整理了丰富的前端工具、学习资料等。大前端的瑞士军刀，只记录有用的。
 * [JohnTsaiAndroid/AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips) - Android开发知识点合集。
 * [futurice/android-best-practices](https://github.com/futurice/android-best-practices#dimensxml) - Android开发的一些最佳实践。多语言版本。
+* [ColorfulCat/AndroidGuide](https://github.com/ColorfulCat/AndroidGuide) - Android开发资源合集。AndroidCat安卓书签网 http://www.androidcat.com/
 * [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址。
 * [TellH/Android_PullToRefreshLibrary_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - Android下拉刷新开源库集锦，提供源码用于学习和研究。
 * [CodingFish2015/Android-Developer-Blog-Rss](https://github.com/CodingFish2015/Android-Developer-Blog-Rss) - 主流 Android 开发者的博客订阅地址。
