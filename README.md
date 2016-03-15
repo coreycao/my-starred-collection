@@ -28,7 +28,8 @@
 * [NoahZu/ZhihuDaily](https://github.com/NoahZu/ZhihuDaily) - 知乎日报第三方客户端。
 * [race604/ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - React-Native开发的知乎日报客户端。
 * [ganhuo/Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo) - 干货集中营 Android App.
-* [simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) - Android源码设计模式分析项目
+* [simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) - Android源码设计模式分析项目。
+
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
 * [square/retrofit](https://github.com/square/retrofit) - Android/Java HTTP客户端。Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
