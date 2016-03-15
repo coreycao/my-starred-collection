@@ -27,7 +27,8 @@
 * [SilenceDut/nbaplus-server](https://github.com/SilenceDut/nbaplus-server) - NBA客户端的Server实现。
 * [NoahZu/ZhihuDaily](https://github.com/NoahZu/ZhihuDaily) - 知乎日报第三方客户端。
 * [race604/ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - React-Native开发的知乎日报客户端。
-
+* [ganhuo/Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo) - 干货集中营 Android App.
+* [simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) - Android源码设计模式分析项目
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
 * [square/retrofit](https://github.com/square/retrofit) - Android/Java HTTP客户端。Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
@@ -83,6 +84,7 @@
 * [aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计。
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews#android) - 各个岗位的面试问题集锦。
 * [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - IT技术学习技能图谱。
+* [hangyan/docker-resources](https://github.com/hangyan/docker-resources) - Docker资源汇总。
 
 ### 其他类
 * [phodal/ideas](https://github.com/phodal/ideas) - 作者的idea或者project的孵化器。
