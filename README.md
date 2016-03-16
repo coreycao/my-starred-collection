@@ -33,6 +33,7 @@
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
 * [square/retrofit](https://github.com/square/retrofit) - Android/Java HTTP客户端。Type-safe HTTP client for Android and Java by Square, Inc. http://square.github.io/retrofit/
+* [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [hongyangAndroid/okhttp-utils](https://github.com/hongyangAndroid/okhttp-utils) - 对okhttp进行一定程度的封装，使用方便。
 * [JakeWharton/butterknife](https://github.com/JakeWharton/butterknife) - View的依赖注入工具库。View "injection" library for Android. http://jakewharton.github.io/butterknife/
 * [facebook/fresco](https://github.com/facebook/fresco) - Facebook出品，Android的图片管理工具库。An Android library for managing images and the memory they use.
@@ -40,6 +41,7 @@
 * [moduth/blockcanary](https://github.com/moduth/blockcanary) - Android平台上的一个轻量的，非侵入式的性能监控组件。可以在使用应用的时候检测主线程上的各种卡顿问题，并通过组件提供的各种信息分析出原因并进行修复。
 * [bboyfeiyu/Colorful](https://github.com/bboyfeiyu/Colorful) - 基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。
 * [Hitomis/HitBlockRefresh](https://github.com/Hitomis/HitBlockRefresh) - 好玩的下拉刷新控件，让我们一起来回味童年。下拉刷新时可以玩儿打砖块游戏。
+* [race604/FlyRefresh](https://github.com/race604/FlyRefresh) - 漂亮的下拉刷新控件。
 * [MostafaGazar/CustomShapeImageView](https://github.com/MostafaGazar/CustomShapeImageView) - 各种自定义的Android ImageView形状。A library for supporting custom shaped ImageView(s) using SVGs and paint shapes http://mostafagazar.github.io/CustomShapeImageView.
 * [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 漂亮的Android Dialog工具库，向下兼容至API 8。A beautiful, easy-to-use, and customizable dialogs API, enabling you to use Material designed dialogs down to API 8.
 * [emilsjolander/StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders) - 功能如其名字所示。An android library for section headers that stick to the top.
@@ -74,6 +76,7 @@
 * [JohnTsaiAndroid/AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips) - Android开发知识点合集。
 * [futurice/android-best-practices](https://github.com/futurice/android-best-practices#dimensxml) - Android开发的一些最佳实践。多语言版本。
 * [ColorfulCat/AndroidGuide](https://github.com/ColorfulCat/AndroidGuide) - Android开发资源合集。AndroidCat安卓书签网 http://www.androidcat.com/
+* [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - Android控件资源合集。
 * [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址。
 * [TellH/Android_PullToRefreshLibrary_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - Android下拉刷新开源库集锦，提供源码用于学习和研究。
 * [CodingFish2015/Android-Developer-Blog-Rss](https://github.com/CodingFish2015/Android-Developer-Blog-Rss) - 主流 Android 开发者的博客订阅地址。
