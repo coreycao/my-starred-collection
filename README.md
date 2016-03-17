@@ -51,6 +51,7 @@
 * [daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - Android SwipeLayout.
 * [LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) -  抓取URL指定的网页中的关键信息。
 * [Pixplicity/sharp](https://github.com/Pixplicity/sharp) - Android SVG. Scalable vector graphics for Android.
+* [linsea/OpenDanmaku](https://github.com/linsea/OpenDanmaku) - 一个Android的弹幕控件
 
 #### 其他
 * [luohaha/JLiteSpider](https://github.com/luohaha/JLiteSpider) - 一个轻量级的Java Web爬虫借口。A lite Java web spider interface(no a framework) :-)
@@ -89,6 +90,9 @@
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews#android) - 各个岗位的面试问题集锦。
 * [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - IT技术学习技能图谱。
 * [hangyan/docker-resources](https://github.com/hangyan/docker-resources) - Docker资源汇总。
+* [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - Android开发图片资源。
+* [edagarli/tuiblogs](https://github.com/edagarli/tuiblogs) - 优秀的计算机编程类博客和文章.
+* [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog) - 一些 iOS / Web 开发相关的翻译或原创博客文章.
 
 ### 其他类
 * [phodal/ideas](https://github.com/phodal/ideas) - 作者的idea或者project的孵化器。
