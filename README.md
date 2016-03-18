@@ -28,7 +28,8 @@
 * [NoahZu/ZhihuDaily](https://github.com/NoahZu/ZhihuDaily) - 知乎日报第三方客户端。
 * [race604/ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) - React-Native开发的知乎日报客户端。
 * [ganhuo/Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo) - 干货集中营 Android App.
-* [simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) - Android源码设计模式分析项目。
+* [jiang111/IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - 一个通过RecyclerView实现的联系人.
+* [oxoooo/mr-mantou-android](https://github.com/oxoooo/mr-mantou-android) - 使用gank.io数据的Android图片浏览客户端。
 
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
@@ -75,9 +76,11 @@
 * [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - 关于git及github的学习资源的干货集锦。
 * [nieweidong/fetool](https://github.com/nieweidong/fetool) - 归纳整理了丰富的前端工具、学习资料等。大前端的瑞士军刀，只记录有用的。
 * [JohnTsaiAndroid/AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips) - Android开发知识点合集。
+* [jiang111 / awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - Android开发知识点合集。
 * [futurice/android-best-practices](https://github.com/futurice/android-best-practices#dimensxml) - Android开发的一些最佳实践。多语言版本。
 * [ColorfulCat/AndroidGuide](https://github.com/ColorfulCat/AndroidGuide) - Android开发资源合集。AndroidCat安卓书签网 http://www.androidcat.com/
 * [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - Android控件资源合集。
+* [simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) - Android源码设计模式分析项目。
 * [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址。
 * [TellH/Android_PullToRefreshLibrary_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - Android下拉刷新开源库集锦，提供源码用于学习和研究。
 * [CodingFish2015/Android-Developer-Blog-Rss](https://github.com/CodingFish2015/Android-Developer-Blog-Rss) - 主流 Android 开发者的博客订阅地址。
@@ -88,6 +91,7 @@
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data) - Android学习资料收集汇总。
 * [aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计。
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews#android) - 各个岗位的面试问题集锦。
+* [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理 http://hit-alibaba.github.io/interview/index.html
 * [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - IT技术学习技能图谱。
 * [hangyan/docker-resources](https://github.com/hangyan/docker-resources) - Docker资源汇总。
 * [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - Android开发图片资源。
