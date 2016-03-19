@@ -30,6 +30,8 @@
 * [ganhuo/Android-Ganhuo](https://github.com/ganhuo/Android-Ganhuo) - 干货集中营 Android App.
 * [jiang111/IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - 一个通过RecyclerView实现的联系人.
 * [oxoooo/mr-mantou-android](https://github.com/oxoooo/mr-mantou-android) - 使用gank.io数据的Android图片浏览客户端。
+* [jiang111/RxJavaApp](https://github.com/jiang111/RxJavaApp) - 一个用于学习RxJava操作符的APP.
+* [jiang111/IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - 一个通过RecyclerView实现的联系人.
 
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
@@ -53,6 +55,7 @@
 * [LeonardoCardoso/Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) -  抓取URL指定的网页中的关键信息。
 * [Pixplicity/sharp](https://github.com/Pixplicity/sharp) - Android SVG. Scalable vector graphics for Android.
 * [linsea/OpenDanmaku](https://github.com/linsea/OpenDanmaku) - 一个Android的弹幕控件
+* [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架.
 
 #### 其他
 * [luohaha/JLiteSpider](https://github.com/luohaha/JLiteSpider) - 一个轻量级的Java Web爬虫借口。A lite Java web spider interface(no a framework) :-)
@@ -97,6 +100,7 @@
 * [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - Android开发图片资源。
 * [edagarli/tuiblogs](https://github.com/edagarli/tuiblogs) - 优秀的计算机编程类博客和文章.
 * [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog) - 一些 iOS / Web 开发相关的翻译或原创博客文章.
+* [AutumnsWind/Front-end-tutorial](https://github.com/AutumnsWind/Front-end-tutorial) - 最全的资源教程-前端涉及的所有知识体系.
 
 ### 其他类
 * [phodal/ideas](https://github.com/phodal/ideas) - 作者的idea或者project的孵化器。
