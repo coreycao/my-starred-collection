@@ -32,6 +32,7 @@
 * [oxoooo/mr-mantou-android](https://github.com/oxoooo/mr-mantou-android) - 使用gank.io数据的Android图片浏览客户端。
 * [jiang111/RxJavaApp](https://github.com/jiang111/RxJavaApp) - 一个用于学习RxJava操作符的APP.
 * [jiang111/IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - 一个通过RecyclerView实现的联系人.
+* [kinneyyan/36krReader](https://github.com/kinneyyan/36krReader) - MD风格的36氪Android阅读客户端.使用JSOUP抓取分析数据。
 
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
@@ -79,7 +80,7 @@
 * [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - 关于git及github的学习资源的干货集锦。
 * [nieweidong/fetool](https://github.com/nieweidong/fetool) - 归纳整理了丰富的前端工具、学习资料等。大前端的瑞士军刀，只记录有用的。
 * [JohnTsaiAndroid/AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips) - Android开发知识点合集。
-* [jiang111 / awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - Android开发知识点合集。
+* [jiang111/awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - Android开发知识点合集。
 * [futurice/android-best-practices](https://github.com/futurice/android-best-practices#dimensxml) - Android开发的一些最佳实践。多语言版本。
 * [ColorfulCat/AndroidGuide](https://github.com/ColorfulCat/AndroidGuide) - Android开发资源合集。AndroidCat安卓书签网 http://www.androidcat.com/
 * [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - Android控件资源合集。
