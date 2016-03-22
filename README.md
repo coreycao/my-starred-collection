@@ -33,6 +33,8 @@
 * [jiang111/RxJavaApp](https://github.com/jiang111/RxJavaApp) - 一个用于学习RxJava操作符的APP.
 * [jiang111/IndexRecyclerView](https://github.com/jiang111/IndexRecyclerView) - 一个通过RecyclerView实现的联系人.
 * [kinneyyan/36krReader](https://github.com/kinneyyan/36krReader) - MD风格的36氪Android阅读客户端.使用JSOUP抓取分析数据。
+* [qii/weiciyuan](https://github.com/qii/weiciyuan) - 新浪微博第三方APP。小巧清爽。
+* [SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发。
 
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
@@ -57,6 +59,10 @@
 * [Pixplicity/sharp](https://github.com/Pixplicity/sharp) - Android SVG. Scalable vector graphics for Android.
 * [linsea/OpenDanmaku](https://github.com/linsea/OpenDanmaku) - 一个Android的弹幕控件
 * [dcloudio/mui](https://github.com/dcloudio/mui) - 最接近原生APP体验的高性能框架.
+* [yangfuhai/ASimpleCache](https://github.com/yangfuhai/ASimpleCache) - ASimpleCache 是一个为android制定的 轻量级的 开源缓存框架。
+* [wujingchao/SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView) - 为ImageView添加标签的工具库。
+* [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - Splash界面滑动导航+各种切换动画自动轮播效果。
+* [LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) - A rubber indicator.
 
 #### 其他
 * [luohaha/JLiteSpider](https://github.com/luohaha/JLiteSpider) - 一个轻量级的Java Web爬虫借口。A lite Java web spider interface(no a framework) :-)
@@ -106,3 +112,4 @@
 ### 其他类
 * [phodal/ideas](https://github.com/phodal/ideas) - 作者的idea或者project的孵化器。
 * [phodal/growth](https://github.com/phodal/growth) - Growth是一款专注于Web开发者成长的应用，涵盖Web开发的流程及技术栈，Web开发的学习路线、成长衡量等各方面。在这里，你将通过不断检验自己的学习成效，形成属于你自己的独一无二的个性技能图谱。
+* [txthinking/google-hosts](https://github.com/txthinking/google-hosts) - Google hosts.
