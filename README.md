@@ -35,6 +35,7 @@
 * [kinneyyan/36krReader](https://github.com/kinneyyan/36krReader) - MD风格的36氪Android阅读客户端.使用JSOUP抓取分析数据。
 * [qii/weiciyuan](https://github.com/qii/weiciyuan) - 新浪微博第三方APP。小巧清爽。
 * [SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发。
+* [jiyiren/mjoke](https://github.com/jiyiren/mjoke) - 开源MD风格APP。前后端均为作者自己实现，并实现了上线、打包、统计等过程。
 
 #### 第三方开源库
 * [square/okhttp](https://github.com/square/okhttp) - HTTP网络请求库。An HTTP+HTTP/2 client for Android and Java applications.
@@ -63,6 +64,7 @@
 * [wujingchao/SimpleTagImageView](https://github.com/wujingchao/SimpleTagImageView) - 为ImageView添加标签的工具库。
 * [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - Splash界面滑动导航+各种切换动画自动轮播效果。
 * [LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) - A rubber indicator.
+* [roughike/BottomBar](https://github.com/roughike/BottomBar) - Material Design Bottom Navigation pattern
 
 #### 其他
 * [luohaha/JLiteSpider](https://github.com/luohaha/JLiteSpider) - 一个轻量级的Java Web爬虫借口。A lite Java web spider interface(no a framework) :-)
@@ -108,6 +110,7 @@
 * [edagarli/tuiblogs](https://github.com/edagarli/tuiblogs) - 优秀的计算机编程类博客和文章.
 * [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog) - 一些 iOS / Web 开发相关的翻译或原创博客文章.
 * [AutumnsWind/Front-end-tutorial](https://github.com/AutumnsWind/Front-end-tutorial) - 最全的资源教程-前端涉及的所有知识体系.
+* [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
 
 ### 其他类
 * [phodal/ideas](https://github.com/phodal/ideas) - 作者的idea或者project的孵化器。
