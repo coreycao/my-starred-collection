@@ -65,6 +65,7 @@
 * [bingoogolapple/BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) - Splash界面滑动导航+各种切换动画自动轮播效果。
 * [LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) - A rubber indicator.
 * [roughike/BottomBar](https://github.com/roughike/BottomBar) - Material Design Bottom Navigation pattern
+* [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations) - AndroidAnnotations is an Open Source framework that speeds up Android development. It takes care of the plumbing, and lets you concentrate on what's really important. By simplifying your code, it facilitates its maintenance.
 
 #### 其他
 * [luohaha/JLiteSpider](https://github.com/luohaha/JLiteSpider) - 一个轻量级的Java Web爬虫借口。A lite Java web spider interface(no a framework) :-)
