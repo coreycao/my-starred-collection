@@ -11,7 +11,7 @@
     - [Git及Github](#git-github)
 - [干货整理类](#干货整理类)
     - [Android相关](#android相关)
-    - [博客阅读、学习资料](#博客阅读及学习资料)
+    - [博客阅读、学习资料](#博客阅读-学习资料)
 - [其他类](#其他类)
 
 ### 开源类
@@ -106,7 +106,7 @@
 * [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - Tips and tricks for Android Development.
 
 
-#### 博客阅读、学习资料
+#### 博客阅读-学习资料
 * [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - 关于git及github的学习资源的干货集锦。
 * [nieweidong/fetool](https://github.com/nieweidong/fetool) - 归纳整理了丰富的前端工具、学习资料等。大前端的瑞士军刀，只记录有用的。
 * [AutumnsWind/Front-end-tutorial](https://github.com/AutumnsWind/Front-end-tutorial) - 最全的资源教程-前端涉及的所有知识体系.
