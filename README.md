@@ -10,9 +10,11 @@
     - [静态博客](#静态博客)
     - [Git及Github](#git-github)
 - [干货整理类](#干货整理类)
+    - [Android相关](#Android相关)
+    - [博客阅读、学习资料](#博客阅读、学习资料)
 - [其他类](#其他类)
 
-###开源类
+### 开源类
 
 #### 开源APP
 * [DreaminginCodeZH/Douya](https://github.com/DreaminginCodeZH/Douya) - 开源的 Material Design 风格的豆瓣客户端。
@@ -66,9 +68,10 @@
 * [LyndonChin/AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) - A rubber indicator.
 * [roughike/BottomBar](https://github.com/roughike/BottomBar) - Material Design Bottom Navigation pattern
 * [androidannotations/androidannotations](https://github.com/androidannotations/androidannotations) - AndroidAnnotations is an Open Source framework that speeds up Android development. It takes care of the plumbing, and lets you concentrate on what's really important. By simplifying your code, it facilitates its maintenance.
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - Computation using data flow graphs for scalable machine learning. http://tensorflow.org
 
 #### 其他
-* [luohaha/JLiteSpider](https://github.com/luohaha/JLiteSpider) - 一个轻量级的Java Web爬虫借口。A lite Java web spider interface(no a framework) :-)
+* [luohaha/JLiteSpider](https://github.com/luohaha/JLiteSpider) - 一个轻量级的Java Web爬虫接口。A lite Java web spider interface(no a framework) :-)
 * [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - 轻博客网站medium的文本编辑器。
 * [astaxie/beego](https://github.com/astaxie/beego) - Go语言高性能Web框架。
 
@@ -86,34 +89,45 @@
 * [Sidong/MyGitStar](https://github.com/Sidong/MyGitStar) - Github Star管理工具。
 
 ### 干货整理类
-* [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - 关于git及github的学习资源的干货集锦。
-* [nieweidong/fetool](https://github.com/nieweidong/fetool) - 归纳整理了丰富的前端工具、学习资料等。大前端的瑞士军刀，只记录有用的。
+
+#### Android相关
 * [JohnTsaiAndroid/AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips) - Android开发知识点合集。
 * [jiang111/awesome-android-tips](https://github.com/jiang111/awesome-android-tips) - Android开发知识点合集。
 * [futurice/android-best-practices](https://github.com/futurice/android-best-practices#dimensxml) - Android开发的一些最佳实践。多语言版本。
 * [ColorfulCat/AndroidGuide](https://github.com/ColorfulCat/AndroidGuide) - Android开发资源合集。AndroidCat安卓书签网 http://www.androidcat.com/
 * [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - Android控件资源合集。
 * [simple-android-framework/android_design_patterns_analysis](https://github.com/simple-android-framework/android_design_patterns_analysis) - Android源码设计模式分析项目。
-* [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址。
-* [TellH/Android_PullToRefreshLibrary_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - Android下拉刷新开源库集锦，提供源码用于学习和研究。
-* [CodingFish2015/Android-Developer-Blog-Rss](https://github.com/CodingFish2015/Android-Developer-Blog-Rss) - 主流 Android 开发者的博客订阅地址。
 * [soyoungboy/android-material-design-Open-source-projects](https://github.com/soyoungboy/android-material-design-Open-source-projects) - android material design 风格项目整理
-* [lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Material Design的库和相关资源合集。Collection of material design libs and res.
-* [smallSohoSolo/android-developer-blog-cn](https://github.com/smallSohoSolo/android-developer-blog-cn) - 定期翻译Android官方博客。
+* [TellH/Android_PullToRefreshLibrary_Collection](https://github.com/TellH/Android_PullToRefreshLibrary_Collection) - Android下拉刷新开源库集锦，提供源码用于学习和研究。
 * [1sters/material_design_zh_2](https://github.com/1sters/material_design_zh_2) - Material Design官方中文翻译版。
+* [lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - Material Design的库和相关资源合集。Collection of material design libs and res.
 * [Freelander/Android_Data](https://github.com/Freelander/Android_Data) - Android学习资料收集汇总。
+* [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - Android开发图片资源。
+* [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) - Tips and tricks for Android Development.
+
+
+#### 博客阅读、学习资料
+* [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github) - 关于git及github的学习资源的干货集锦。
+* [nieweidong/fetool](https://github.com/nieweidong/fetool) - 归纳整理了丰富的前端工具、学习资料等。大前端的瑞士军刀，只记录有用的。
+* [AutumnsWind/Front-end-tutorial](https://github.com/AutumnsWind/Front-end-tutorial) - 最全的资源教程-前端涉及的所有知识体系.
+* [Gracker/Rss-IT](https://github.com/Gracker/Rss-IT) - 这个项目记录了个人订阅的一些科技人的Blog地址。
+* [edagarli/tuiblogs](https://github.com/edagarli/tuiblogs) - 优秀的计算机编程类博客和文章.
+* [CodingFish2015/Android-Developer-Blog-Rss](https://github.com/CodingFish2015/Android-Developer-Blog-Rss) - 主流 Android 开发者的博客订阅地址。
+* [smallSohoSolo/android-developer-blog-cn](https://github.com/smallSohoSolo/android-developer-blog-cn) - 定期翻译Android官方博客。
 * [aisuhua/restful-api-design-references](https://github.com/aisuhua/restful-api-design-references) - RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计。
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interviews#android) - 各个岗位的面试问题集锦。
 * [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) - 笔试面试知识整理 http://hit-alibaba.github.io/interview/index.html
 * [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - IT技术学习技能图谱。
 * [hangyan/docker-resources](https://github.com/hangyan/docker-resources) - Docker资源汇总。
-* [romannurik/AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio) - Android开发图片资源。
-* [edagarli/tuiblogs](https://github.com/edagarli/tuiblogs) - 优秀的计算机编程类博客和文章.
 * [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog) - 一些 iOS / Web 开发相关的翻译或原创博客文章.
-* [AutumnsWind/Front-end-tutorial](https://github.com/AutumnsWind/Front-end-tutorial) - 最全的资源教程-前端涉及的所有知识体系.
-* [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
+* [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) - Deep Learning Book Chinese Translation.
+
 
 ### 其他类
 * [phodal/ideas](https://github.com/phodal/ideas) - 作者的idea或者project的孵化器。
 * [phodal/growth](https://github.com/phodal/growth) - Growth是一款专注于Web开发者成长的应用，涵盖Web开发的流程及技术栈，Web开发的学习路线、成长衡量等各方面。在这里，你将通过不断检验自己的学习成效，形成属于你自己的独一无二的个性技能图谱。
 * [txthinking/google-hosts](https://github.com/txthinking/google-hosts) - Google hosts.
+* [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词.
+* [abhishekbanthia/Public-APIs](https://github.com/abhishekbanthia/Public-APIs) - A public list of APIs from round the web.
+* [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development.
+* [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when.
